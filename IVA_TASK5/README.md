@@ -1,4 +1,5 @@
-Input :  
+ **Image Segmentation**  
+ Input :  
 ![alt text](https://github.com/theocharistr/ImageAndVideoAnalysis/blob/master/IVA_TASK5/3_noise.png)
 Output :  
 ![alt text](https://github.com/theocharistr/ImageAndVideoAnalysis/blob/master/IVA_TASK5/result.png)
