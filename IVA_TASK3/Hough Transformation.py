@@ -29,7 +29,7 @@ for filename in os.listdir(directory):
         image_path = filename
         # print(image_path)
         new_path = os.path.splitext(image_path)[0]
-        # print(new_path)
+        print(new_path)
 
         img = cv2.imread('Input\{}'.format(image_path))
 
